@@ -1,3 +1,1 @@
-Hello world!
-heyou
-gaibugai
+it is a great day
